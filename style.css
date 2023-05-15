@@ -1,0 +1,9 @@
+.test{
+    text-align: center;
+}
+
+.cartes{
+    align-items: center;
+    justify-items: center;
+    display: flex;
+}
