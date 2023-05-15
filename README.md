@@ -1,2 +1,1 @@
-[[# Partiel](https://mathetoile.github.io/Partiel/)
-](https://mathetoile.github.io/Partiel/)
+https://mathetoile.github.io/GBS1-Game-Blog/
