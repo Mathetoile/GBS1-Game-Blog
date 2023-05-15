@@ -1,1 +1,2 @@
-[# Partiel](https://mathetoile.github.io/Partiel/)
+[[# Partiel](https://mathetoile.github.io/Partiel/)
+](https://mathetoile.github.io/Partiel/)
